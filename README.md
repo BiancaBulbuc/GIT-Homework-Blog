@@ -1,1 +1,3 @@
-"# GIT-Homework-Blog" 
+"# GIT-Homework-Blog"
+created the branch developer
+
